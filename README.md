@@ -8,7 +8,7 @@
 ## 📋 Sobre o Desafio
 
 Boas vindas ao primeiro desafio da Alura!  
-Durante este projeto, você irá ajudar o **Senhor João** a decidir qual loja da sua rede **Alura Store** vender para iniciar um novo empreendimento. Para isso, analisamos dados de vendas, desempenho e avaliações das 4 lojas fictícias da Alura Store. O objetivo é identificar a loja com menor eficiência e apresentar uma recomendação final baseada nos dados.
+Este projeto tem como obetivo ajudar o **Senhor João** a decidir qual loja da sua rede **Alura Store** vender para iniciar um novo empreendimento. Para isso, analisamos dados de vendas, desempenho e avaliações das 4 lojas fictícias da Alura Store. O objetivo é identificar a loja com menor eficiência e apresentar uma recomendação final baseada nos dados.
 
 ## 🎯 Objetivo
 
